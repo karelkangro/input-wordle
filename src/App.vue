@@ -80,4 +80,10 @@
     margin-bottom: 1rem;
   }
 
+  input {
+    width: 90%;
+    font-size: 2rem;
+    height: 2rem;
+  }
+
 </style>
